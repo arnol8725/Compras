@@ -1,0 +1,12 @@
+package com.arnol.shopings;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ShopingsApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ShopingsApplication.class, args);
+	}
+}
