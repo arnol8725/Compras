@@ -1,0 +1,11 @@
+com\arnol\shopings\controller\BancoRestController.class
+com\arnol\shopings\servicesImpl\bancoServicesImpl.class
+com\arnol\shopings\entity\Banco.class
+com\arnol\shopings\entity\UserRole.class
+com\arnol\shopings\entity\TarjetaPK.class
+com\arnol\shopings\repository\bancoRepositoryCrud.class
+com\arnol\shopings\ShopingsApplication.class
+com\arnol\shopings\entity\Tarjeta.class
+com\arnol\shopings\entity\User.class
+com\arnol\shopings\services\bancoServices.class
+com\arnol\shopings\services\configuration\WebMvcConfiguration.class
